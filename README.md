@@ -1,5 +1,5 @@
-# Author: 	Andrew Cartwright
-# Date:		7/12/2015
+## Author: 	Andrew Cartwright
+## Date:		7/12/2015
 
 The purpose of these scripts are to batch process DeepDream images using VirtualBox and the Vagrant environments.
 
